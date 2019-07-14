@@ -1,14 +1,9 @@
 .banner {
-    background-image: url('../../images/bg.png') !important;
-    height: 370px;
-    margin: 0 !important;
-    padding: 0 !important;
+    background-image: url('../../images/bg.jpg');
+    height: 350px;
+    margin: 0;
+    padding: 130px;
     color: white;
-    font-size: 18px;
-  }
-  
-  @media (min-width: 576px) {
-    .banner {
-      font-size: calc(10px + 14 * (100vw - 320px) / 800);
-    }
+    font-size: 25px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }

@@ -8,17 +8,17 @@
     width: 170px;
   }
   
-  .card:hover {
+.card:hover {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     transform: scale(1.05);
     transition: 0.1s;
   }
   
-  .card-img-top {
+.card-img-top {
     border-radius: 0;
   }
   
-  .card-height {
-    height: 100% !important;
-    width: 100% !important;
+.card-height {
+    height: 100%;
+    width: 100%;
   }
